@@ -1,0 +1,54 @@
+<svg width="580" height="170" stroke-width="2">
+<style>
+.SCL_CL_olive
+{
+fill:
+#6d7500
+;
+stroke:
+#555a00
+}
+.SCL_CL_brown
+{
+fill:
+#7f4a00
+;
+stroke:
+#5e3201
+}
+.SCL_CL_white
+{
+fill:
+#d0d0d0
+;
+stroke:
+#aaa
+}
+.SCL_CL_black
+{
+fill:
+#707070
+;
+stroke:
+#505050
+}
+.SCL_CL_sand
+{
+fill:
+#faffa5
+;
+stroke:
+#c5c983
+}
+</style>
+<path d="M1 41h13v-15h21l43-25h42l27 26h99l19-26h37l31 27h217l29 30-15 85h-170l-26 26h-75v-28h-279v-13h-13Z" class="SCL_CL_sand"/>
+<path d="M69 67a1 1 0 00-44 0q0 22 23 22a1 1 0 010 20q-11 0-11-9h-12a1 1 0 0045 0q0-23-22-23a1 1 0 010-20q9 0 9 10Z" class="SCL_CL_olive"/>
+<path d="M87 44h13v77h-13Z" class="SCL_CL_olive"/>
+<circle r="16" cx="94" cy="22" class="SCL_CL_olive"/>
+<path d="M155 38a1 1 0 000 84q19 0 32-13l-15-16q-7 9-17 9A1 1 0 01155 57q11 0 20 13l16-16q-13-16-36-16" class="SCL_CL_olive"/>
+<path d="M274 10h14v111h-14Z" class="SCL_CL_olive"/>
+<path d="M380 43h13v9c9-13 36-12 45 2 22-23 52-6 52 9v59h-13v-48a1 1 0 00-36 0v48h-13v-48a1 1 0 00-35 0v47h-13Z" class="SCL_CL_olive"/>
+<path d="M501 43h41v16h-23v15h23v16h-23v16h23v16h-41Z" class="SCL_CL_olive"/>
+<path d="M258 74v48h-16v-7q-5 7-10 7h-11a1 1 0 010-48h21a1 1 0 00-33-7l-12-12q11-14 30-14 17 0 27 15 4 8 4 18" class="SCL_CL_olive"/>
+<path d="M300 43h15l17 45h4l16-45h14v4l-39 107h-23v-12h13l9-26-26-69Z" class="SCL_CL_olive"/>
+</svg>
